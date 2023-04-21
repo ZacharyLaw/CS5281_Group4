@@ -1,5 +1,9 @@
+![logo](https://user-images.githubusercontent.com/48851717/233599313-5fb76454-1652-455e-bb8d-ccf842d305d9.png){width=50px}
+
 # E-People Group Online Shopping Website
 This is the official repository for the E-People Group's online shopping website project. The project is aimed at developing an online shopping platform where users can browse and purchase items from different categories. The website also includes features such as a shopping cart, user registration, login and logout, and a search functionality.
+
+![image](https://user-images.githubusercontent.com/48851717/233599205-dd77f525-6211-49fe-b5ae-36915b671d41.png)
 
 ## Project Overview
 The online shopping website is built using HTML, CSS, JavaScript, and PHP programming languages. The website is designed to be responsive and mobile-friendly, ensuring users can easily access and use the website on different devices. The website is also designed to be easy to use, with a clean and intuitive interface that allows users to find and purchase items with ease.
