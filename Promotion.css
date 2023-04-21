@@ -1,0 +1,21 @@
+
+
+.discount{
+	text-decoration:line-through;
+}
+#header{
+	text-align:center;
+	background-image: url(https://thumbs.dreamstime.com/b/fashion-seamless-background-clothing-collection-shopping-store-vector-illustration-sale-156808618.jpg);
+	font-size:48;
+	font-weight:bold;
+	color:blue;
+	padding:40px 10px;
+}
+h1{
+	background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg);
+}
+
+U{
+	color:purple;
+}
+		

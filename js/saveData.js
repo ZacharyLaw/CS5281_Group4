@@ -1,0 +1,1 @@
+function saveData(data) {saveData0(data)}

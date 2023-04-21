@@ -1,0 +1,83 @@
+[
+    {
+        "Id": 0,
+        "Name": "Ties A",
+        "Price": "90",
+        "Tags": "Red,Purple,Blue",
+        "Rating": "",
+        "Filename": "0.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 1,
+        "Name": "T-Shirt A",
+        "Price": "90",
+        "Tags": "Black,White",
+        "Rating": "",
+        "Filename": "1.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 2,
+        "Name": "Zipper Hoodie",
+        "Price": "90",
+        "Tags": "Black",
+        "Rating": "",
+        "Filename": "2.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 3,
+        "Name": "Windbreaker",
+        "Price": "100",
+        "Tags": "",
+        "Rating": "",
+        "Filename": "3.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 4,
+        "Name": "T-Shirt C",
+        "Price": "45",
+        "Tags": "",
+        "Rating": "",
+        "Filename": "4.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 5,
+        "Name": "Ties B",
+        "Price": "90",
+        "Tags": "Red,Blue",
+        "Rating": "",
+        "Filename": "5.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 6,
+        "Name": "Scarf",
+        "Price": "90",
+        "Tags": "",
+        "Rating": "",
+        "Filename": "6.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 7,
+        "Name": "KidsT-Shirt",
+        "Price": "40",
+        "Tags": "White",
+        "Rating": "",
+        "Filename": "7.jpg",
+        "Discount": 0
+    },
+    {
+        "Id": 8,
+        "Name": "Hoodie",
+        "Price": "90",
+        "Tags": "",
+        "Rating": "",
+        "Filename": "8.jpg",
+        "Discount": 0
+    }
+]
