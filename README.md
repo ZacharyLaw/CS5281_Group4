@@ -1,5 +1,4 @@
-![logo](https://user-images.githubusercontent.com/48851717/233599313-5fb76454-1652-455e-bb8d-ccf842d305d9.png){width=50px}
-
+![2smalllogo](https://user-images.githubusercontent.com/48851717/233600592-dd8ce7b1-8863-4602-995d-435337e7f7c5.png)
 # E-People Group Online Shopping Website
 This is the official repository for the E-People Group's online shopping website project. The project is aimed at developing an online shopping platform where users can browse and purchase items from different categories. The website also includes features such as a shopping cart, user registration, login and logout, and a search functionality.
 
