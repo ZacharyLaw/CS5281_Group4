@@ -19,13 +19,7 @@ Checkout functionality for easy purchasing
 User account page to view order history and update personal information
 
 ## Project Contributors
-The E-People Group online shopping website project was developed by a team of talented developers and designers. The team members include:
-
-John Smith
-Jane Doe
-Peter Johnson
-Sarah Williams
-Project Status
+The E-People Group online shopping website project was developed by a team of talented developers and designers. 
 The E-People Group online shopping website project is currently in the beta testing phase. The website is being tested for functionality and usability, and any bugs or issues are being addressed by the development team. Once the website has been thoroughly tested and any issues have been resolved, the website will be launched to the public.
 
 ## How to Contribute
